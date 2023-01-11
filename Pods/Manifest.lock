@@ -1,0 +1,22 @@
+PODS:
+  - GPUImage (0.1.7)
+  - HXPHPicker/Core (1.4.5)
+  - HXPHPicker/Picker/Lite (1.4.5):
+    - HXPHPicker/Core
+
+DEPENDENCIES:
+  - GPUImage
+  - HXPHPicker/Picker/Lite
+
+SPEC REPOS:
+  trunk:
+    - GPUImage
+    - HXPHPicker
+
+SPEC CHECKSUMS:
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  HXPHPicker: 2cc9ef438049b32a2085dd2b1e471b8cabc09457
+
+PODFILE CHECKSUM: b3561b1a39a8e37cc25b89ff7753d20c87c78ba7
+
+COCOAPODS: 1.11.2
