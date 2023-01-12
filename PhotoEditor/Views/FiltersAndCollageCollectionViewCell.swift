@@ -13,7 +13,7 @@ class FiltersAndCollageCollectionViewCell: UICollectionViewCell {
     @IBOutlet weak var collageContainerView: CustomView!
     @IBOutlet weak var filterName: UILabel!
     @IBOutlet weak var filterImageView: UIImageView!
-    let viewModel = FiltersViewModel()
+    let viewModel = EditorViewModel()
     override func awakeFromNib() {
         super.awakeFromNib()
     }
